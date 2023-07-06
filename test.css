@@ -7,3 +7,22 @@
     /* cursor: pointer; */
     cursor: url("https://em-content.zobj.net/thumbs/120/apple/354/grinning-face-with-smiling-eyes_1f604.png"),auto;
 }
+.box{
+    padding: 20px;
+    background-color: red;
+    border: 2px solid black;
+    width: 200px;
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: blue;
+}
+.container{
+    display: flex;
+    /* it works according to row */
+    justify-content: space-around;
+    /* it works according to colum */
+    align-items: center;
+}
