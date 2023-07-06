@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hover{
+    color: brown;
+    /* cursor: pointer; */
+    cursor: url("https://em-content.zobj.net/thumbs/120/apple/354/grinning-face-with-smiling-eyes_1f604.png"),auto;
+}
